@@ -19,7 +19,7 @@ Buscando entregar videos de qualidade para seu perfil do instagram,TikTok ou div
         <img 
             alt="Seguidores" 
             title="Me siga no Instagram" 
-            src="https://custom-icon-badges.demolab.color=236ad3&labelColor=ff8da1&style=for-the-badge&logo=instagram&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.comcolor=236ad3&labelColor=ff8da1&style=for-the-badge&logo=instagram&label=Seguidores&logoColor=white"
         />
 
 
