@@ -1,5 +1,5 @@
-## 👩🏻‍💻Tomzzin
-**`Desenvolvedora FullStack`**
+## 👩🏻‍💻Tomzzin🎬
+**`Editor de videos profissional`**
 
 Buscando entregar videos de qualidade para seu perfil do instagram,TikTok ou divulgar aquele seu produto mas nãO sabe como fazer isso? que bom que me encontrou! Se estiver em busca de dar um upgrade no seu audiovisual você está no lugar certo
     
@@ -29,7 +29,7 @@ Buscando entregar videos de qualidade para seu perfil do instagram,TikTok ou div
 
 ---
 
-### 🤖ferramentas
+### 🛠️ferramentas
 
 
 <img 
