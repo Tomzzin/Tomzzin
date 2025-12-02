@@ -2,7 +2,12 @@
 **`Desenvolvedora FullStack`**
 
 Buscando entregar videos de qualidade para seu perfil do instagram,TikTok ou divulgar aquele seu produto mas nãO sabe como fazer isso? que bom que me encontrou! Se estiver em busca de dar um upgrade no seu audiovisual você está no lugar certo
-    </a>
+    
+    
+    
+    
+    
+</a>
     <a href="https://github.com/Tomzzin?tab=followers">
         <img 
             alt="Seguidores" 
