@@ -8,7 +8,7 @@ Buscando entregar videos de qualidade para seu perfil do instagram,TikTok ou div
     
     
 </a>
-    <a href="https://github.com/Tomzzin?">
+    <a href="https://github.com/Tomzzin?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
